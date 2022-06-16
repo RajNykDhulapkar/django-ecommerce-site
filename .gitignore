@@ -1,0 +1,11 @@
+venv
+.vscode
+.pytest_cache
+**/**/__pycache__
+
+
+# files
+chromedriver.exe
+
+
+.env
